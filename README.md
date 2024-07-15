@@ -11,6 +11,11 @@ Las clases se dictarán del 15 al 19 de Julio de 8:00 - 10:00 PM (Eastern Time, 
 
 Los alumnos que demuestren interés y compromiso a lo largo del curso tendrán la oportunidad de colaborar en proyectos de investigación en diseño y modelamiento de circuitos genéticos, y de ser asesorados para aplicar a un PhD. 
 
+## Co-organizadores
+
+* PhD. Christian Cuba Samaniego, Carniege Mellon University
+* Bsc. Frank Britto Bisso, Research Assistant
+
 ## Recursos previos al curso
 
 * [Introducción a Google Collaboratory](https://www.youtube.com/watch?v=inN8seMm7UI): este video ofrece una introducción a Google Colab y la estructura de los notebooks que usaremos durante el curso. Emplearemos Python como lenguaje de programación para nuestras simulaciones, aprovechando que Google Colab proporciona un entorno de computación interactiva. Si prefieres, también puedes optar por usar [Jupyter notebooks](https://jupyter.org) en tu computadora local.
