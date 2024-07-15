@@ -1,6 +1,6 @@
 # Día 1. Introducción al modelamiento de sistemas biológicos
 
-**Enlace al Jupyter notebook:**
+**Enlace al Jupyter notebook:** https://colab.research.google.com/drive/1KtumhVvZYXp9Z790SFXG1pnjVb1IYnNa?usp=sharing
 
 En esta sesión, veremos los siguientes módulos:
 * **Intuición detrás del modelamiento de sistemas biológicos**. El objetivo de este módulo es presentar el flujo de trabajo para modelar un circuito genético: entender el proceso biológico --> plantear las ecuaciones (bio)químicas --> plantear un sistema de ecuaciones diferenciales ordinarias (EDOs). Como caso de estudio, analizaremos el sistema biológico más simple (expresión de proteínas), entendiendo de por medio la ley de acción de masas. Además, nos familiarizaremos con el código para resolver las ODEs mediante ```scipy.integrate.odeint``` y la visualización de resultados utilizando ```bokeh```.
