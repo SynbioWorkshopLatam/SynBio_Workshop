@@ -24,9 +24,11 @@ Los alumnos que demuestren interés y compromiso a lo largo del curso tendrán l
 
 ## Sesiones prácticas
 
-Una hora antes de cada sesión, se dispondrá de un archivo .ipynb que servirá como material de trabajo durante la clase. Además, estarán disponible material bibliográfico con información que nos permitirá extender lo aprendido durante cada sesión, así como una serie de preguntas adicionales que se recomienda resolver. 
+Todos los días se dispondrá de un archivo .ipynb que servirá como material de trabajo durante la clase. Además, estarán disponible material bibliográfico con información que nos permitirá extender lo aprendido durante cada sesión, así como una serie de preguntas adicionales que se recomienda resolver. 
 
-**Importante**: tendremos office hours a la mañana siguiente de las sesiones, a discresión de los instructores.
+## Proyecto del curso
+
+
 
 ## Recursos adicionales
 
