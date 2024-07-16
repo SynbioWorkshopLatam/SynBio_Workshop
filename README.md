@@ -11,6 +11,10 @@ Las clases se dictarán del 15 al 19 de Julio de 8:00 - 10:00 PM (Eastern Time, 
 
 Los alumnos que demuestren interés y compromiso a lo largo del curso tendrán la oportunidad de colaborar en proyectos de investigación en diseño y modelamiento de circuitos genéticos, y de ser asesorados para aplicar a un PhD. 
 
+## Enlace a las sesiones
+
+Zoom Meeting: https://dfci.zoom.us/j/5731558599?pwd=N2FnS1M1Zy9mSy9ta1phT0pCY3piQT09
+
 ## Co-organizadores
 
 * PhD. Christian Cuba Samaniego, Carniege Mellon University
