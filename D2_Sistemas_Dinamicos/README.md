@@ -1,6 +1,6 @@
 # Día 2. Sistemas dinámicos
 
-**Enlace al Jupyter notebook:** 
+**Enlace al Jupyter notebook:** https://colab.research.google.com/drive/1dGDxocTkm5wMsqqK18cwZZTLNHbb2obZ?usp=sharing
 
 En esta sesión, veremos los siguientes módulos:
 * **Análisis lineal de estabilidad**. ¿Por qué el modelo del *toggle switch* se denomina sistema **biestable** si encontramos tres puntos de equilibrio en su *phase plane*?
