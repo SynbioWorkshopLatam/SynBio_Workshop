@@ -2,6 +2,8 @@
 
 **Enlace al Jupyter notebook:** https://colab.research.google.com/drive/1KtumhVvZYXp9Z790SFXG1pnjVb1IYnNa?usp=sharing
 
+**Grabación de la sesión:** https://www.dropbox.com/scl/fo/iraef4yz11f5zt9640jba/ABiW2YBiACvlKDE53czOjT8/Day1?preview=video1682930465.mp4&rlkey=xyrkjm1ky2k9n5ngeu4i4edzd&subfolder_nav_tracking=1&st=zzwc2gm7&bmus=1&dl=0
+
 En esta sesión, veremos los siguientes módulos:
 * **Intuición detrás del modelamiento de sistemas biológicos**. El objetivo de este módulo es presentar el flujo de trabajo para modelar un circuito genético: entender el proceso biológico --> plantear las ecuaciones (bio)químicas --> plantear un sistema de ecuaciones diferenciales ordinarias (EDOs). Como caso de estudio, analizaremos el sistema biológico más simple (expresión de proteínas), entendiendo de por medio la ley de acción de masas. Además, nos familiarizaremos con el código para resolver las ODEs mediante ```scipy.integrate.odeint``` y la visualización de resultados utilizando ```bokeh```.
 * **Regulación en la expresión de genes: ultrasensitivity y funciones de Hill**. El objetivo de este módulo es presentar el modelamiento de la regulación de expresión génica por medio de factores de transcripción por medio de las funciones de Hill.
