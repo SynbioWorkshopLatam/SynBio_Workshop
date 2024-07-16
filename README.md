@@ -15,6 +15,8 @@ Los alumnos que demuestren interés y compromiso a lo largo del curso tendrán l
 
 Zoom Meeting: https://dfci.zoom.us/j/5731558599?pwd=N2FnS1M1Zy9mSy9ta1phT0pCY3piQT09
 
+Correo de contacto: synbio.workshop.latam@gmail.com
+
 ## Co-organizadores
 
 * PhD. Christian Cuba Samaniego, Carniege Mellon University
