@@ -17,6 +17,8 @@ Zoom Meeting: https://dfci.zoom.us/j/5731558599?pwd=N2FnS1M1Zy9mSy9ta1phT0pCY3pi
 
 Correo de contacto: synbio.workshop.latam@gmail.com
 
+Google Sheets con avances. Completalo a medida que vamos avanzando con las sesiones prácticas para saber cómo te está yendo con las simulaciones: https://docs.google.com/spreadsheets/d/1sI1tWUj0s38apv0daLZ8eZgobiI25sw7_WTHzweITr0/edit?usp=sharing. **H**: tarea (disponible al final de los jupyter notebooks). **Extra**: preguntas adicionales (disponibles al final de los jupyter notebooks). En la sección de **Comentarios** puedes colocar si estas teniendo alguna dificultad, si pudiste terminar todas las simulaciones, si encontraste algo interesante de seguir explorando, o si deseas profundizar más sobre un tema. Por favor, asegúrate de completar esta información **solo en la casilla asignada a tu nombre**. ¡Éxitos con las simulaciones!
+
 ## Co-organizadores
 
 * PhD. Christian Cuba Samaniego, Carniege Mellon University
