@@ -2,6 +2,8 @@
 
 **Enlace al Jupyter notebook:** https://colab.research.google.com/drive/1dGDxocTkm5wMsqqK18cwZZTLNHbb2obZ?usp=sharing
 
+**Grabación de la sesión:** https://www.dropbox.com/scl/fo/iraef4yz11f5zt9640jba/AIac_FNs6cY0CRdgFQIZAe0/Day2?preview=video1460069413.mp4&rlkey=xyrkjm1ky2k9n5ngeu4i4edzd&subfolder_nav_tracking=1&st=aizl1fg7&bmus=1&dl=0
+
 En esta sesión, veremos los siguientes módulos:
 * **Análisis lineal de estabilidad**. ¿Por qué el modelo del *toggle switch* se denomina sistema **biestable** si encontramos tres puntos de equilibrio en su *phase plane*?
 * **Osciladores**. El objetivo de este módulo es presentar el modelamiento del *repressilator*, el primer circuito que muestra comportamiento oscilatorio.
