@@ -1,6 +1,6 @@
 # Día 3. Feedback control
 
-**Enlace al Jupyter notebook:** 
+**Enlace al Jupyter notebook:** https://colab.research.google.com/drive/1_HHNK4R4CUWmhs0vUdxKjWZ32OxJS2r7?usp=sharing
 
 **Grabación de la sesión:** 
 
