@@ -2,7 +2,7 @@
 
 **Enlace al Jupyter notebook:** https://colab.research.google.com/drive/1_HHNK4R4CUWmhs0vUdxKjWZ32OxJS2r7?usp=sharing
 
-**Grabación de la sesión:** 
+**Grabación de la sesión:** https://www.dropbox.com/scl/fo/iraef4yz11f5zt9640jba/ABAXfmLm02VmsfMxaex0l5Q/Day3?preview=video1425903587.mp4&rlkey=xyrkjm1ky2k9n5ngeu4i4edzd&subfolder_nav_tracking=1&st=sewxmv2z&bmus=1&dl=0
 
 En esta sesión, veremos los siguientes módulos:
 * **Reference-based feedback control**. El objetivo de este módulo es presentar el principio de diseño de controladores utilizando reacciones químicas. Analizaremos un controlador proporcional (P) basado en la operación de secuestramiento, y plantearemos un controlador basado en el IFFL para estabilizar un sistema inestable.
