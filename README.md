@@ -36,7 +36,7 @@ Todos los días se dispondrá de un archivo .ipynb que servirá como material de
 
 ## Proyecto del curso
 
-
+Google Jamboard: https://jamboard.google.com/d/1hsp7lBJshxc-Euadu2kNJKpr4yA_DRWnwGsKu6osCi4/edit?usp=sharing
 
 ## Recursos adicionales
 
