@@ -2,7 +2,7 @@
 
 **Enlace al Jupyter notebook:** para hoy deben crear su propio notebook! Pueden tomar como plantilla los que hemos utilizando en los días anteriores, y ajustarlo según las reacciones químicas y EDOs que veamos el día de hoy. Código de ayuda: https://colab.research.google.com/drive/1wzY8uFH-DiGyXZYVcMkWbM6YW-uLFNKq?usp=sharing
 
-**Grabación de la sesión:** 
+**Grabación de la sesión:** https://www.dropbox.com/scl/fo/iraef4yz11f5zt9640jba/ABdvnUMtTnf2_JQJVsBKn9g/Day4?preview=video1690549463.mp4&rlkey=xyrkjm1ky2k9n5ngeu4i4edzd&subfolder_nav_tracking=1&st=dhajwum6&bmus=1&dl=0
 
 En esta sesión, veremos los siguientes módulos:
 * **Clasificadores lineales**. El objetivo de este módulo es introducir el concepto de “neurona” y su implementación con reacciones químicas. Introduciremos las ODEs y mostraremos cómo se implementa la función ReLu mediante la operación de sequestration, además de simular el comportamiento como clasificador lineal. Juntos exploraremos la siguiente pregunta: ¿cómo ajustamos la frontera de decisión a partir de los pesos (*weights*) de la red?
