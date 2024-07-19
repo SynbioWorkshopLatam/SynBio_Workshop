@@ -1,6 +1,6 @@
 # Día 4. Redes neuronales moleculares
 
-**Enlace al Jupyter notebook:** para hoy deben crear su propio notebook! Pueden tomar como plantilla los que hemos utilizando en los días anteriores, y ajustarlo según las reacciones químicas y EDOs que veamos el día de hoy.
+**Enlace al Jupyter notebook:** para hoy deben crear su propio notebook! Pueden tomar como plantilla los que hemos utilizando en los días anteriores, y ajustarlo según las reacciones químicas y EDOs que veamos el día de hoy. Código de ayuda: https://colab.research.google.com/drive/1wzY8uFH-DiGyXZYVcMkWbM6YW-uLFNKq?usp=sharing
 
 **Grabación de la sesión:** 
 
