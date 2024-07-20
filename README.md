@@ -38,6 +38,8 @@ Todos los días se dispondrá de un archivo .ipynb que servirá como material de
 
 Google Jamboard: https://jamboard.google.com/d/1hsp7lBJshxc-Euadu2kNJKpr4yA_DRWnwGsKu6osCi4/edit?usp=sharing
 
+Información sobre los avances y fechas de entrega: https://docs.google.com/document/d/1AVgYybwS-5LtUXDpycJ2lXXc8vBybTvM94vQI8SuibM/edit
+
 ## Recursos adicionales
 
 * Dr. Guy Bart-Stan Lectures Notes del curso Modeling in Biology(2010) en Imperial London College. https://gstan.bg-research.cc.ic.ac.uk/2010_Course_MiB_article.pdf (demora un poco de tiempo en cargar)
