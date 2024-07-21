@@ -40,6 +40,8 @@ Google Jamboard: https://jamboard.google.com/d/1hsp7lBJshxc-Euadu2kNJKpr4yA_DRWn
 
 Información sobre los avances y fechas de entrega: https://docs.google.com/document/d/1AVgYybwS-5LtUXDpycJ2lXXc8vBybTvM94vQI8SuibM/edit
 
+**Importante**: utilicemos el siguiente Google Sheets para incluir los avances del proyecto (https://docs.google.com/spreadsheets/d/1cqnXU02VZjeApOJtHZZ0CcoaPXgYJnGFMa2sD4R2uiY/edit?usp=sharing). Creamos el documento con los alumnos asistentes a la sesión del Día 5, con quienes se pudo conversar sobre los temas propuestos. Si no pudiste entrar a la sesión, escribenos un correo! Y añade por favor tu nombre (o nombres, si son un equipo) en este Google Sheets.
+
 ## Recursos adicionales
 
 * Dr. Guy Bart-Stan Lectures Notes del curso Modeling in Biology(2010) en Imperial London College. https://gstan.bg-research.cc.ic.ac.uk/2010_Course_MiB_article.pdf (demora un poco de tiempo en cargar)
